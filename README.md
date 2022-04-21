@@ -1,2 +1,2 @@
-# aula
-Anotações da aula de Javascript
+# aula-js
+Anotações das aulas de Javascript
